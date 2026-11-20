@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "guestdrop": {
+      "url": "https://guestdrop.app/api/mcp"
+    }
+  }
+}

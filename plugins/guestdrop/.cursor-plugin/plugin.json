@@ -1,0 +1,14 @@
+{
+  "name": "guestdrop",
+  "displayName": "GuestDrop",
+  "version": "1.0.0",
+  "description": "Create event photo-sharing QR codes, then manage and moderate the photos and videos guests upload.",
+  "author": {
+    "name": "GuestDrop",
+    "email": "support@guestdrop.app"
+  },
+  "homepage": "https://guestdrop.app/mcp",
+  "license": "MIT",
+  "keywords": ["events", "photos", "qr-code", "wedding", "mcp"],
+  "logo": "assets/logo.svg"
+}
